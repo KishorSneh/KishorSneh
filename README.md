@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...AIML And CyberSec
 - 🌱 I’m currently pursuing...MSc CS
 ### Want to connect?
-[![Portfolio](https://shields.io)](https://portfolio.snehkishor.workers.dev/)
+Visit [Here](https://portfolio.snehkishor.workers.dev/)
 
 
 <!---
